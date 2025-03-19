@@ -1,3 +1,3 @@
 # PythonHub
-Some of the intresting python programs I worked on
+Some of the intresting python programs I worked on.
 Author - D.Sahithi
