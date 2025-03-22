@@ -13,5 +13,9 @@ This is a simple web application designed to raise awareness about suicide preve
 - **CSS**: Styling of the website for a clean and responsive design.
 - **Flask**: Web framework to serve the pages and handle routing.
 
+- ## Screen Recording
+
+The screen recording showcasing the output of the **Suicide Prevention Website** is available in the file **screen-recording-file.mp4**.
+
 
 
